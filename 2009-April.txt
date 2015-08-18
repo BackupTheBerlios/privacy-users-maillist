@@ -1,0 +1,31 @@
+From marcob at inventati.org  Tue Apr 14 12:40:03 2009
+From: marcob at inventati.org (Marco)
+Date: Tue, 14 Apr 2009 12:40:03 +0200
+Subject: [privacy-users] Fluido project, a new way of sharing contents
+Message-ID: <20090414104003.GA6527@discovery>
+
+http://code.autistici.org/trac/fluido
+
+Hi all,
+
+ I'd just like to submit the above link to let you know about the Fluido
+project. From its home page:
+
+"A vision on future of p2p A new file sharing platform. It's innovative
+not because of the way of sharing files (it's based on Bittorrent), but
+because the way it's tought: instead of a list where users search for
+what they need, Fluido organizes contents in themed groups (shares).
+Sharing a file with a group, all members of the group receive relevant
+meta-information and can decide to download it. A group can be public,
+private or moderated (a restricted number of people has write access to
+the group, everybody else just read access). Ehy, this is also free
+software, we distribuite it under GPLv3 license."
+
+ I already know that the available codebase is different by now (Fluido
+is written in Python and relies on BitTorrent); but I do believe that a
+little collaboration could be very positive for both projects.
+
+Best regards!
+Marco
+
+
